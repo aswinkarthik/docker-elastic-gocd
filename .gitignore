@@ -1,2 +1,4 @@
 *.rpm
 *.pyc
+bin/*
+db/*.db

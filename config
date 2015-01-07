@@ -1,7 +1,11 @@
 {
-	"GO_SERVER": "localhost",
+	"GO_SERVER": "127.0.0.1",
 	"GO_SERVER_PORT": "8153",
 	"RPM_DEP_URLS": [
 		"http://download.go.cd/gocd-rpm/go-agent-14.4.0-1356.noarch.rpm"
-	]
+	],
+	"AUTH": "false",
+	"USERNAME": "user",
+	"PASSWORD": "password",
+	"THRESHOLD": "1"
 }
